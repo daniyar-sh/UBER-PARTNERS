@@ -25,3 +25,7 @@ background: #212121;
     border: 1px dashed #000000;
     
 }
+
+.invitation .invitation-wrapper {
+    background: url(../img/uber_bg.png); 
+}
