@@ -1,0 +1,27 @@
+.main-header {
+background: #212121;
+
+}
+
+.main-header .navigation {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.main-header .navigation .naigation-text {
+    text-decoration: none;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+
+.main-header .divide {
+    width: 2px;
+    height: 31px;
+    background: rgba(0, 0, 0, 0.0001);
+    mix-blend-mode: soft-light;
+    border: 1px dashed #000000;
+    
+}
