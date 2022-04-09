@@ -1,0 +1,35 @@
+.header {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background-color: #212121;
+}
+
+.container {
+  width: 1029px;
+  margin: 0 auto;
+}
+
+.navigation {
+  width: 1029px;
+  display: flex;
+  justify-content: center;
+}
+
+.navigation li {
+  padding: 4px 20px;
+  border-right: 1px dashed #000;
+}
+
+.navigation li:last-child {
+  border: none;
+}
+
+.navigation li a {
+  color: #fff;
+}
+
+.navigation li a:hover {
+  text-decoration: underline;
+}

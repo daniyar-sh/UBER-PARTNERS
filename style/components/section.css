@@ -1,0 +1,50 @@
+.firstSection {
+  height: 798px;
+  background-image: url("../../img/uber_bg.png");
+}
+
+.subHeader {
+  background-color: #00000075;
+  height: 87px; 
+}
+
+.logo h5 {
+  color: #fff;
+  margin: 4px;
+}
+
+.buttonBlock {
+  display: flex;
+}
+
+.buttonBlock button {
+  width: 172px;
+  height: 46px;
+  background: linear-gradient(0deg, #1EACC7 0%, #4CE2FF 100%);
+  box-shadow: inset 0px -3px 0px rgba(0, 0, 0, 0.12);
+  border-radius: 4px;
+  border: none;
+  color: #fff;
+  text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
+}
+
+.buttonText {
+  color: #fff;
+  text-align: right;
+  margin-right: 32px;
+}
+
+.buttonText p {  
+  margin: 0;
+}
+
+.buttonText h3 {
+  margin: 10px 0;
+}
+
+.container.firstBlock {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 87px;
+}
