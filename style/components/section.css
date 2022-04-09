@@ -1,6 +1,8 @@
 .firstSection {
   height: 798px;
   background-image: url("../../img/uber_bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .subHeader {
@@ -11,6 +13,7 @@
 .logo h5 {
   color: #fff;
   margin: 4px;
+  font-weight: 100;
 }
 
 .buttonBlock {
@@ -26,12 +29,14 @@
   border: none;
   color: #fff;
   text-shadow: 1px 1px 0px rgba(0, 0, 0, 0.21);
+  cursor: pointer;
 }
 
 .buttonText {
   color: #fff;
   text-align: right;
   margin-right: 32px;
+  font-weight: 100;
 }
 
 .buttonText p {  
@@ -40,6 +45,8 @@
 
 .buttonText h3 {
   margin: 10px 0;
+  font-weight: 400;
+  
 }
 
 .container.firstBlock {
