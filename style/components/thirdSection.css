@@ -1,0 +1,85 @@
+.thirdSection {
+    height: 864px;
+    background-image: url("../../img/background.jpg");
+}
+
+.thirdSection h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+}
+
+.thirdSection p {
+    text-align: center;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+.mobi {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+.mobi p {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 31px;
+    color: #fff;
+}
+
+.mobiBlok-1 {
+    background-image: url("../../img/mobiBlok-1.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobiBlok-2 {
+    background-image: url("../../img/mobiBlok-2.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobiBlok-3 {
+    background-image: url("../../img/mobiBlok-3.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobiBlok-4 {
+    background-image: url("../../img/mobiBlok-4.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mobiBlok-5 {
+    background-image: url("../../img/mobiBlok-5.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobiBlok-6 {
+    background-image: url("../../img/mobiBlok-6.png");
+    width: 320px;
+    height: 280px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
