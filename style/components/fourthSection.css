@@ -1,0 +1,41 @@
+
+.fourthSection {
+  margin: 0 auto;
+}
+
+.blackBlock {
+  height: 502px;
+  background-color: #070716;
+  color: #fff;
+}
+
+.whiteBlock {
+  height: 397px;
+  background-image: url("/img/background.jpg");
+  background-size: contain;
+  text-align: center;
+}
+
+.whiteBlock img {
+  margin-top: -250px;
+}
+
+.buttonWrapper {
+  width: 1029px;
+  margin: 0 auto;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.buttonWrapper button {
+  width: 112px;
+  height: 24px;
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 11px;
+}
+
+.buttonWrapper h1 {
+  font-weight: 700;
+  font-size: 38px;
+}

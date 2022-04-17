@@ -1,0 +1,52 @@
+.fifthSection {
+    height: 917px;
+    
+}
+
+
+.fifthSection h1 {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.fifthSectionBlock {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.blockTitle, .blockTerms {
+    width: 500px;
+    
+}
+
+.blockTitle p {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: #1CA8C3;
+}
+
+.blockTitle h5 {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #1CA8C3;
+}
+
+.blockTitle tr, .blockTerms tr {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 24px;
+    color: #222222;
+}
+
+.blockTerms p {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 24px;
+    color: #FF5656;
+}

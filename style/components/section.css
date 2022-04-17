@@ -20,7 +20,7 @@
   display: flex;
 }
 
-.buttonBlock button {
+.buttonBlock button, button {
   width: 172px;
   height: 46px;
   background: linear-gradient(0deg, #1EACC7 0%, #4CE2FF 100%);
@@ -54,4 +54,34 @@
   justify-content: space-between;
   align-items: center;
   height: 87px;
+}
+
+.firstSectionText {
+  width: 1029px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.firstSectionText h1{
+  color: #fff;
+  font-weight: 900;
+  font-size: 60px;
+  line-height: 24px;
+}
+
+.firstSectionText h2 {
+  color: #fff;
+}
+
+.firstSectionText p {
+  color: #fff;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+  
+}
+
+.sendButton {
+  margin-top: 100px;
+  text-align: center;
 }

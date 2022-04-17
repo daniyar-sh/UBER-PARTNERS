@@ -1,0 +1,45 @@
+.avatar {
+    background-color: #1EACC7;
+    border-radius: 50%;
+    width: 116px;
+    height: 116px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titleHeader {
+    margin-left: 24px;
+}
+
+.rectangleIcon {
+    width: 116px;
+    height: 116px;
+}
+
+.titleHeader p {
+    color: #1EACC7;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+.infoWrapper{
+    width: 46%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.secondSection h1 {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+    text-transform: uppercase;
+    text-align: center;
+}

@@ -1,0 +1,51 @@
+.sixthSection {
+    height: 720px;
+    background-color:#080816 ;
+}
+.sixthSectionWrapper {
+    background-image: url("../../img/world_bg.png");
+    width: 1440px;
+    height: 716px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.city {
+    text-align: center;
+}
+
+.sixthSection .cities {
+    width: 79px;
+    height: 27px;
+    background: #fff;
+    color: black;
+    text-align: center;
+}
+
+.sixthSection h1 {
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+    color: #fff;
+
+
+}
+
+.sixthSection p {
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 21px;
+    color: #fff;
+}
+
+.sixthSection h2 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 68px;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #1FBAD6;
+    margin-top: 480px;
+}
+

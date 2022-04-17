@@ -1,0 +1,49 @@
+footer {
+    height: 140px;
+}
+
+.footerWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fopterHeader {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fopterHeader h1 {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 68px;
+    color: #070716;
+    text-transform: uppercase;
+}
+
+.footerText{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footerLang{
+    display: flex;
+    justify-content: center;
+}
+.footerText p {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 68px;
+    color: #999999;
+    text-transform: uppercase;
+}
+
+.footerLang p {
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 68px;
+    color: #1FBAD6;
+
+}
+
