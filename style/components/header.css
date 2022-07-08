@@ -7,7 +7,7 @@
 }
 
 .container {
-  width: 1029px;
+  max-width: 1029px;
   margin: 0 auto;
 }
 
@@ -33,4 +33,10 @@
 
 .navigation li a:hover {
   text-decoration: underline;
+}
+@media screen and (max-width:980px) {
+  .navigation{
+    non
+  }
+  
 }

@@ -1,6 +1,5 @@
 .fifthSection {
     height: 917px;
-    
 }
 
 
@@ -19,7 +18,7 @@
 }
 
 .blockTitle, .blockTerms {
-    width: 500px;
+    max-width: 500px;
     
 }
 

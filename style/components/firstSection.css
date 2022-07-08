@@ -57,7 +57,7 @@
 }
 
 .firstSectionText {
-  width: 1029px;
+  max-width: 1029px;
   margin: 0 auto;
   text-align: center;
 }
